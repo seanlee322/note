@@ -1,10 +1,10 @@
 # note
 
-這裡是我按照翰林版課本整理的會考筆記，照章節分類，主要自己複習用。
+本 repository 收錄個人依據翰林版教材整理之學習筆記，內容依章節與主題分類，供複習與查閱使用。
 
-筆記都是我自己讀完之後整理的，可能跟課本或老師講的有出入，僅供參考，還是以學校上課內容和正式教材為準。
+筆記內容為個人理解後撰寫與統整，可能與正式教材或授課內容有所出入，僅供參考。請以學校課程、翰林版正式教材及考試官方公告為準。
 
-有錯的話歡迎開 [Issue](https://github.com/seanlee322/note/issues) 或發 [PR](https://github.com/seanlee322/note/pulls) 跟我說。
+如有錯誤或疏漏，歡迎透過 [Issue](https://github.com/seanlee322/note/issues) 或 [Pull Request](https://github.com/seanlee322/note/pulls) 協助修正。
 
 ---
 
@@ -21,7 +21,12 @@
 
 ## 免責聲明
 
-- 本筆記僅供學習參考，不作商業用途。
-- 部分圖片來自[翰林社會圖庫](https://socialgallery.hle.com.tw/)，版權屬原網站或原作者所有。
-- 如有侵權疑慮，請聯繫我，我會盡快移除。
-- 其餘文字內容依 [MIT License](LICENSE) 釋出。
+- 本筆記僅供學習參考，不作任何商業用途。
+- 部分圖片素材來自[翰林社會圖庫](https://socialgallery.hle.com.tw/)，版權屬原網站或原作者所有。
+- 若有侵權疑慮，請聯繫本人，將盡速移除相關內容。
+
+---
+
+## 授權
+
+除另有註明外，本筆記之文字內容依 [MIT License](LICENSE) 釋出。
